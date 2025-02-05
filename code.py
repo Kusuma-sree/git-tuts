@@ -1,0 +1,1 @@
+print("kusuma + entry fee")
